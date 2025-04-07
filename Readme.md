@@ -1,3 +1,5 @@
+## Setup a Microsoft Azure Tenant & Apply Basic Configuratio Settings
+
 ### Create Azure Tenant
 1) Create a new Microsoft Account: https://signup.live.com/
 
