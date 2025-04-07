@@ -6,3 +6,8 @@
 3) Select Manage tenants and then select Create
 ![image](https://github.com/user-attachments/assets/5cfe2711-6d92-4aad-9701-c955cc376e76)
 4) Select Microsoft Entra ID as tenant type and select Configuration
+
+
+
+### Setup MFA
+https://aka.ms/mfasetup
