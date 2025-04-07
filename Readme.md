@@ -1,7 +1,8 @@
-## Setup a Microsoft Azure Tenant & Apply Basic Configuratio Settings
+## Setup a Microsoft Azure Tenant & Apply Basic Configuration Settings
 
-### Create Azure Tenant
-1) Create a new Microsoft Account: https://signup.live.com/
+### 1) Create Azure Tenant
+- [Create a new Microsoft Account](https://signup.live.com/)
+1) Create a new Microsoft Account: 
 
 3) Sign-In to Azure Portal and navigate to Microsoft Entra ID: https://portal.azure.com/#view/Microsoft_AAD_IAM/ActiveDirectoryMenuBlade/~/Overview
 4) Select Manage tenants and then select Create
